@@ -3,7 +3,11 @@
 A simple site created using 
 - HTML
 - CSS 
-- JS 
+- Javascript
 
-which changes the colour of the background and provides the hex-code of the colour.
+# Function
+This site changes the colour of the background and provides the hex-code of the colour.
+
+# Check it out:-
+https://adjascently.github.io/Colour-Changing/
 
